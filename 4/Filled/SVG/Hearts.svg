@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Hearts</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Holidays_sliced" sketch:type="MSLayerGroup" transform="translate(-120.000000, 0.000000)"></g>
+        <g id="Holidays" sketch:type="MSLayerGroup" transform="translate(-115.000000, 3.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Hearts" transform="translate(117.000000, 0.000000)" sketch:type="MSShapeGroup">
+                <path d="M31.6327087,42.1777673 C36.7250925,40.9315809 42.9359744,38.9819375 46.6623351,36.2745779 C54.1442726,30.8386322 56.9400907,21.9318597 52.9069696,16.3807448 C49.6809525,11.9405131 43.0628702,10.9922041 36.7142135,13.5724385 C34.3836209,7.12795336 29.2505285,2.8443023 23.7921665,3.41799927 C17.3428544,4.09584928 12.7475869,11.3122228 13.0784978,19.8668402" id="Oval-1692"></path>
+                <path d="M4.45558902,20.3119575 C-0.228619196,24.2019457 -0.169154196,32.9957608 4.58840781,39.9534933 C9.13375501,46.6008707 21.8494973,53.2544744 21.8494973,53.2544744 C21.8494973,53.2544744 32.7269188,43.4083948 35.6780061,35.7466479 C38.7668748,27.7271866 36.89414,19.1787316 31.4951359,16.6531391 C27.1765748,14.6329656 21.9099588,17.0781859 18.394212,22.2418919 C13.8493524,18.1688956 8.20239845,17.2004297 4.45558902,20.3119575 L4.45558902,20.3119575 Z" id="Oval-1692" fill="#D8D8D8"></path>
+            </g>
+        </g>
+    </g>
+</svg>
